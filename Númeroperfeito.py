@@ -18,3 +18,5 @@ while r == 's':
 		print(n,"não é um número perfeito")
 
 	r = input("Continuar testando? (s/n): ")
+	
+	#Adicionando alguma coisa!
